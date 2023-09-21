@@ -1,2 +1,2 @@
 # designerMethod
-   设计者模式
+   观察者模式
